@@ -1,6 +1,8 @@
 # 맞춤 금융 가이드 및 챌린지 서비스, 핀토리(Fintory)
 ![image](https://github.com/user-attachments/assets/d47e80ac-619a-46d8-9fe2-dc595e0dabab)
 
+### 배포 주소
+https://d2iyjdgwp264p6.cloudfront.net
 
 ## 아이디어 선정 배경
 
@@ -103,6 +105,8 @@
     
     → 앱 내 탑재형 SDK 또는 서비스 확장 가능
 
-## 사용한 기술스택
+
+### 사용한 기술스택
 <img width="7444" alt="KakaoTalk_20250517_155136041" src="https://github.com/user-attachments/assets/17da6dc5-07de-4cfd-b4d6-59aca86bef09" />
+
 
