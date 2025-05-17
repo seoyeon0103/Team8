@@ -107,6 +107,18 @@ https://d2iyjdgwp264p6.cloudfront.net
     
     → 앱 내 탑재형 SDK 또는 서비스 확장 가능
 
+## 👨‍🚀 FinTori 멤버
+
+| 이름  | GitHub 프로필 | 한 줄 소개 |
+|:------:|:--------------:|:------------:|
+| **신현수** | <img width="100px" src="https://avatars.githubusercontent.com/u/41678750?v=4"/> <br> [@Coldot](https://github.com/Coldot) | 전반적인 인프라 및 배포 담당 & 백엔드 |
+| **최세연** | <img width="100px" src="https://avatars.githubusercontent.com/u/103797536?v=4"/> <br> [@seyeon22](https://github.com/seyeon22) | DB 및 API 설계 & 백엔드 개발|
+| **임서연** | <img width="100px" src="https://avatars.githubusercontent.com/u/102738436?v=4"/> <br> [@seoyeon0103](https://github.com/seoyeon0103) | DB 및 API 설계 & 백엔드 개발 |
+| **정주연** | <img width="100px" src="https://avatars.githubusercontent.com/u/118319081?v=4"/> <br> [@juyeonnnn](https://github.com/juyeonnnn) | UI/UX 디자인 및 프론트 개발 |
+| **김태민** | <img width="100px" src="https://avatars.githubusercontent.com/u/118340269?v=4"/> <br> [@Taemin1](https://github.com/Taemin1) | UI/UX 디자인 및 프론트 개발 |
+
+---
+
 
 ### 사용한 기술스택
 <img width="7444" alt="KakaoTalk_20250517_155136041" src="https://github.com/user-attachments/assets/17da6dc5-07de-4cfd-b4d6-59aca86bef09" />
