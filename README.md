@@ -6,6 +6,7 @@
 ### 배포 주소
 https://d2iyjdgwp264p6.cloudfront.net
 
+
 ## 아이디어 선정 배경
 
 <aside>
@@ -119,8 +120,22 @@ https://d2iyjdgwp264p6.cloudfront.net
 
 ---
 
+## 사용 언어
+### 백엔드
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-### 사용한 기술스택
+### 프론트엔드
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+
+### 배포 환경
+<span>
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</span>
+
+
+## 사용한 기술스택
 <img width="7444" alt="KakaoTalk_20250517_155136041" src="https://github.com/user-attachments/assets/17da6dc5-07de-4cfd-b4d6-59aca86bef09" />
 
 ## 노션 & 피그마 링크
