@@ -1,0 +1,9 @@
+[submodule "Team8-FE"]
+	path = Team8-FE
+	url = ./Team8-FE
+[submodule "Team8-BE"]
+	path = Team8-BE
+	url = ./Team8-BE
+[submodule "Team8-APIGateway"]
+	path = Team8-APIGateway
+	url = ./Team8-APIGateway
