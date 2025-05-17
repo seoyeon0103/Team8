@@ -1,4 +1,5 @@
 # 맞춤 금융 가이드 및 챌린지 서비스, 핀토리(Fintory)
+![image.png](attachment:9047a501-f3f7-4f94-8e45-bf04734937cd:image.png)
 
 ## 아이디어 선정 배경
 
@@ -100,3 +101,7 @@
     **핀토리를 챌린지 기반 금융 콘텐츠 플랫폼으로 발전**
     
     → 앱 내 탑재형 SDK 또는 서비스 확장 가능
+
+## 사용한 기술스택
+<img width="7444" alt="KakaoTalk_20250517_155136041" src="https://github.com/user-attachments/assets/17da6dc5-07de-4cfd-b4d6-59aca86bef09" />
+
