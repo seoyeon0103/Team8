@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b6243&height=220&section=header&text=FinTori&fontSize=100&fontColor=f6efe5&textAlign=center" />
+
 # 맞춤 금융 가이드 및 챌린지 서비스, 핀토리(Fintory)
 ![image](https://github.com/user-attachments/assets/d47e80ac-619a-46d8-9fe2-dc595e0dabab)
 
@@ -108,5 +110,9 @@ https://d2iyjdgwp264p6.cloudfront.net
 
 ### 사용한 기술스택
 <img width="7444" alt="KakaoTalk_20250517_155136041" src="https://github.com/user-attachments/assets/17da6dc5-07de-4cfd-b4d6-59aca86bef09" />
+
+## 노션 & 피그마 링크
+노션: https://tangible-brand-a45.notion.site/1ef73893dd9c8043b48bce30de752379?pvs=4
+피그마 : https://www.figma.com/files/team/1325450043821493028/recents-and-sharing?fuid=1325450041671789615
 
 
