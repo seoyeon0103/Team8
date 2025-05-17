@@ -1,5 +1,6 @@
 # 맞춤 금융 가이드 및 챌린지 서비스, 핀토리(Fintory)
-![image.png](attachment:9047a501-f3f7-4f94-8e45-bf04734937cd:image.png)
+![image](https://github.com/user-attachments/assets/d47e80ac-619a-46d8-9fe2-dc595e0dabab)
+
 
 ## 아이디어 선정 배경
 
