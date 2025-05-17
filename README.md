@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b6243&height=220&section=header&text=FinTori&fontSize=100&fontColor=f6efe5&textAlign=center" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8b6243&height=250&section=header&text=FinTori&fontSize=130&fontColor=f6efe5&textAlign=center" />
 
 # 맞춤 금융 가이드 및 챌린지 서비스, 핀토리(Fintory)
 ![image](https://github.com/user-attachments/assets/d47e80ac-619a-46d8-9fe2-dc595e0dabab)
